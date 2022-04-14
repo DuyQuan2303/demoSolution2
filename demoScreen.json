@@ -1,0 +1,46 @@
+[
+    {
+        "id": 5770025,
+        "type": "BUTTON",
+        "boardId": 17388,
+        "data": {
+            "name": "Button 1",
+            "size": "M",
+            "text": "Login",
+            "position": {
+                "x": 220,
+                "y": 123
+            }
+        }   
+    },
+    {
+        "id": 5770026,
+        "type": "BUTTON",
+        "boardId": 17388,
+        "data": {
+            "name": "Button 2",
+            "size": "M",
+            "text": " sign up",
+            "position": {
+                "x": 220,
+                "y": 204
+            }
+        }
+        
+    },
+    {
+        "id": 5770027,
+        "type": "BUTTON",
+        "boardId": 17388,
+        "data": {
+            "name": "Button 3",
+            "size": "M",
+            "text": " forgot password",
+            "position": {
+                "x": 220,
+                "y": 285
+            }
+        }
+        
+    }
+]
